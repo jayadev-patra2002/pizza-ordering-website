@@ -1,5 +1,5 @@
 const express=require("express")
-const db=require('./server/db.js')
+const db=require('./db.js')
 
 const pizzamodel=require('./models/pizzamodels.js')
 // const pizza1=pizzamodel.pizzamodel
