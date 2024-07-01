@@ -1,1 +1,2 @@
-# pizza-ordering-website
+# pizza-ordering-website using MERN Stack
+
