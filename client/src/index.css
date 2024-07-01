@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family:'Montserrat',sans-serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar-nav{
+  margin-left: 1220px !important;
+}
+.nav-link{
+  color:black !important;
+}
+.navbar-brand{
+  color: black !important;
+  font-weight: 550;
+  font-size: 22px !important;
+}
+h1{
+  font-size: 20px !important;
+}
+.flex-container{
+  display: flex !important;
+}
+.varient{
+  font-size:17px !important; 
+}
+.btn{
+  background-color: red !important;
+  color:#fff !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
+
+
+.bi-plus{
+  margin:7px !important;
+  color:green;
+  font-weight:bolder !important;
+  font-size: 28px !important;
+  cursor: pointer;
+
+}
+.bi-dash{
+  margin:7px !important;
+  color:red;
+  font-weight:bolder !important;
+  font-size: 28px !important;
+  cursor: pointer;
+}
+.bi-trash3-fill{
+  color: rgb(218, 59, 59);
+  font-size: large;
+}
+.bi-trash3-fill:hover{
+  color:rgb(236, 37, 37);
+  font-size: larger;
+  cursor: pointer;
+}
+.btn:hover{
+   font-size: 15px !important;
+}
+.adminlist 
+{
+  background-color: rgb(1,1,77) !important;
+  padding: 10px !important;
+}
+.adminlist li
+{
+  list-style-type: none;
+  display: inline !important;
+  font-size: 17px;
+  font-weight: 450;
+}
+.adminlist li a{
+   color:#fff !important;
+   padding: 35px;
+
+}
+.bi-pencil-square:hover
+{
+   font-size: large;
+   cursor: pointer;
+}

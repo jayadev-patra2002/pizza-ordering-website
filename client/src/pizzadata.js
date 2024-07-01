@@ -1,0 +1,111 @@
+const pizzas=[{
+"name":"Pepper Barbecue Chicken",
+"varients":[
+"small",
+"medium",
+"large"
+],
+"prices":[
+{
+ "small":200,
+"medium":350,
+"large":400
+},
+],
+"category":"nonveg",
+"image":"https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+"description":"Pepper Baebecue Chicken I Cheese"
+},
+{
+"name":"Non Veg Supreme",
+"varients":[
+"small",
+"medium",
+"large"
+],
+"prices":[
+{
+ "small":250,
+"medium":450,
+"large":520
+},
+],
+"category":"nonveg",
+"image":"https://www.dominos.co.in//files/items/MicrosoftTeams-image_(13).png",
+"description":"Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers"
+},
+{
+    "name":"Chicken Pepperoni",
+    "varients":[
+    "small",
+    "medium",
+    "large"
+    ],
+    "prices":[
+    {
+     "small":150,
+    "medium":350,
+    "large":420
+    },
+    ],
+    "category":"nonveg",
+    "image":"https://www.dominos.co.in/files/items/MicrosoftTeams-image_(20).png",
+    "description":"A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese"
+ },
+ {
+    "name":"Peppy Paneer",
+    "varients":[
+    "small",
+    "medium",
+    "large"
+    ],
+    "prices":[
+    {
+     "small":120,
+    "medium":260,
+    "large":380
+    },
+    ],
+    "category":"veg",
+    "image": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg",
+    "description":"Chunky paneer with crisp capsicum and spicy red pepper - quite a mouthful"
+ },
+ {
+    "name":"Mexican Green Wave",
+    "varients":[
+    "small",
+    "medium",
+    "large"
+    ],
+    "prices":[
+    {
+     "small":210,
+    "medium":440,
+    "large":580
+    },
+    ],
+    "category":"veg",
+    "image": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg",
+    "description":"A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs."
+ },
+ {
+    "name":"Deluxe Veggie",
+    "varients":[
+    "small",
+    "medium",
+    "large"
+    ],
+    "prices":[
+    {
+     "small":160,
+    "medium":360,
+    "large":460
+    },
+    ],
+    "category":"veg",
+    "image": "https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg",
+    "description":"For a vegetarian looking for a BIG treat that goes easy on the spices, this one's got it all.. The onions, the capsicum, those delectable mushrooms - with paneer and golden corn to top it all."
+ }
+]
+
+export default pizzas;
