@@ -46,5 +46,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://pizza-ordering-website-b8xt.onrender.com"
+  "proxy": "http://localhost:5000"
 }
