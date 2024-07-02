@@ -1,4 +1,5 @@
 # Pizza-ordering-website using MERN Stack <br/>
+![pizzaria1](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/8daba2a0-b98d-465f-888b-d7cb0e3b6d2e)
 
 ## Getting Started with Create React App
 
@@ -72,3 +73,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# mern-pizzaria" 
 "# mern-pizzaria" 
+# <br/>
+![pizzaria1](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/c8b23f89-247e-4eb2-bfed-70efd0f4da43)
+
+![pizzaria2](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/dfa32c54-f5f0-4469-a9f2-67a0f89781b8)
+![pizzaria3](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/d35697d1-59c9-447c-aad2-211c02922854)
+![pizzaria4](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/bbaf02ed-1b44-4a08-9383-51b8fd55e095)
+![pizzaria5](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/cdcde704-3256-458d-8c53-458b58cfcdc4)
+![pizzaria6](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/a82ecf66-0637-479b-ab2c-0a5c597146d1)
+![pizzaria7](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/4e4eae95-3218-49cd-970f-8b57acc02588)
+![pizzaria8](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/5bcb143d-c314-4431-b34e-9de2c82a6dc0)
+![pizzaria9](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/a29f909b-b9ad-4b24-8cdd-42582d906314)
+![pizzaia10](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/07cd86d5-e248-4896-b8c3-ac6d93302805)
+![pizzaria11](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/aed56086-32fd-4245-a861-737b55fc1a31)
+![pizzaria12](https://github.com/jayadev-patra2002/pizza-ordering-website/assets/129044059/db53a232-e67a-4c4e-a6e9-13ad394e67c2)
